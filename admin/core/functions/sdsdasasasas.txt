@@ -1,0 +1,13 @@
+			<td>
+			<div class="btn-group">
+            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">CS <span class="caret"></span></button>
+            <ul class="dropdown-menu" role="menu">
+			<li><a href="#">Pending</a></li>
+			<li><a href="#">Processing</a></li>
+			<li><a href="#">In Progress</a></li>
+			<li><a href="#">Completed</a></li>
+			<li><a href="#">Partially completed</a></li>
+			<li><a href="#">Error</a></li>
+			</ul>
+			</div>
+			</td>

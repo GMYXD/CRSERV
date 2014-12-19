@@ -1,0 +1,36 @@
+[05-Sep-2014 09:44:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'edupakco_bahadur'@'localhost' (using password: YES) in /home2/sudatech/public_html/core/core/database/connect.php on line 2
+[05-Sep-2014 09:46:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 31
+[05-Sep-2014 09:51:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 31
+[05-Sep-2014 09:51:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 41
+[05-Sep-2014 09:52:41] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 10
+[05-Sep-2014 09:52:41] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/core/init.php:10) in /home2/sudatech/public_html/core/core/functions/users.php on line 222
+[05-Sep-2014 09:55:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 31
+[05-Sep-2014 09:55:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 31
+[05-Sep-2014 09:56:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 31
+[05-Sep-2014 09:56:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 31
+[05-Sep-2014 09:58:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 31
+[05-Sep-2014 09:58:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 31
+[05-Sep-2014 10:00:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 31
+[05-Sep-2014 15:45:36] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 10
+[05-Sep-2014 15:45:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/core/init.php:10) in /home2/sudatech/public_html/core/core/functions/users.php on line 222
+[05-Sep-2014 15:57:05] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 10
+[05-Sep-2014 15:57:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/core/init.php:10) in /home2/sudatech/public_html/core/core/functions/users.php on line 222
+[05-Sep-2014 16:01:47] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 10
+[05-Sep-2014 16:01:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/core/init.php:10) in /home2/sudatech/public_html/core/core/functions/users.php on line 222
+[05-Sep-2014 16:39:05] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 10
+[05-Sep-2014 16:39:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/core/init.php:10) in /home2/sudatech/public_html/core/core/functions/users.php on line 222
+[05-Sep-2014 16:52:13] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 10
+[05-Sep-2014 16:52:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/core/init.php:10) in /home2/sudatech/public_html/core/core/functions/users.php on line 222
+[05-Sep-2014 17:19:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 41
+[05-Sep-2014 17:20:57] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 10
+[05-Sep-2014 17:20:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/core/init.php:10) in /home2/sudatech/public_html/core/core/functions/users.php on line 222
+[05-Sep-2014 17:25:44] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 31
+[06-Sep-2014 04:47:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 31
+[06-Sep-2014 04:49:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/login.php:14) in /home2/sudatech/public_html/core/login.php on line 31
+[06-Sep-2014 04:51:47] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 11
+[06-Sep-2014 05:11:24] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 11
+[06-Sep-2014 08:27:19] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 11
+[06-Sep-2014 09:05:43] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 11
+[06-Sep-2014 09:06:31] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 11
+[06-Sep-2014 09:10:18] PHP Notice:  Undefined index:  login_hash in /home2/sudatech/public_html/core/core/init.php on line 11
+[06-Sep-2014 09:10:27] PHP Notice:  Undefined variable: user_data in /home2/sudatech/public_html/core/includes/widgets/balance.php on line 2

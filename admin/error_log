@@ -1,0 +1,14 @@
+[06-Sep-2014 08:28:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/admin/login.php:14) in /home2/sudatech/public_html/core/admin/login.php on line 31
+[06-Sep-2014 08:35:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/admin/login.php:14) in /home2/sudatech/public_html/core/admin/login.php on line 39
+[06-Sep-2014 08:35:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/admin/login.php:14) in /home2/sudatech/public_html/core/admin/login.php on line 39
+[06-Sep-2014 08:41:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/admin/login.php:14) in /home2/sudatech/public_html/core/admin/login.php on line 39
+[06-Sep-2014 08:44:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/admin/login.php:14) in /home2/sudatech/public_html/core/admin/login.php on line 39
+[06-Sep-2014 08:44:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/admin/login.php:14) in /home2/sudatech/public_html/core/admin/login.php on line 39
+[06-Sep-2014 08:46:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/admin/login.php:14) in /home2/sudatech/public_html/core/admin/login.php on line 36
+[06-Sep-2014 09:10:17] PHP Notice:  Undefined index:  order_id in /home2/sudatech/public_html/core/admin/change_status.php on line 26
+[06-Sep-2014 09:10:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sudatech/public_html/core/admin/change_status.php:26) in /home2/sudatech/public_html/core/admin/change_status.php on line 27
+[06-Sep-2014 09:10:17] PHP Notice:  Undefined index:  service_type in /home2/sudatech/public_html/core/admin/includes/widgets/change_status.php on line 6
+[06-Sep-2014 09:10:17] PHP Notice:  Undefined index:  link in /home2/sudatech/public_html/core/admin/includes/widgets/change_status.php on line 14
+[06-Sep-2014 09:10:17] PHP Notice:  Undefined index:  quantity in /home2/sudatech/public_html/core/admin/includes/widgets/change_status.php on line 22
+[06-Sep-2014 09:10:17] PHP Notice:  Undefined index:  status in /home2/sudatech/public_html/core/admin/includes/widgets/change_status.php on line 30
+[06-Sep-2014 09:10:17] PHP Notice:  Undefined index:  start_count in /home2/sudatech/public_html/core/admin/includes/widgets/change_status.php on line 54
